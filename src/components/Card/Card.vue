@@ -1,14 +1,11 @@
 <template>
 <div className='card-container'>
-
     <img
     alt='monster'
     src='https://robohash.org/1?set=set2&size=180x180'
     />
     <h2>Nagendra</h2>
-
     <p>Nagendra@gmail.com</p>
-
    </div>
 </template>
 
