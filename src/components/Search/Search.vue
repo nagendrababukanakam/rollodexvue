@@ -10,9 +10,8 @@
 
 <script>
 export default {
-components: {
-ComponentA
-}
+  name: 'Search',
+  components: { Search }
 }
 </script>
 

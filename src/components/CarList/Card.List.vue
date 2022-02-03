@@ -5,7 +5,10 @@
 </template>
 
 <script>
-
+export default {
+  name: 'CardList',
+  components: { CardList }
+}
 </script>
 
 <styles>

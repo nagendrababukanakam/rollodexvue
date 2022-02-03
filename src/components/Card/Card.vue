@@ -10,6 +10,10 @@
 </template>
 
 <script>
+export default {
+  name: 'Card',
+  components: { Card }
+}
 </script>
 
 <styles>
